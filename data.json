@@ -37,21 +37,36 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"At the heart of the Barvikha RP experience lies a meticulously constructed virtual universe, beckoning players to leave behind the ordinary and embark on a journey of discovery and awe. The game unfolds within a fictional realm adorned with lush landscapes, ancient ruins, bustling cities, and mythical creatures—a rich tapestry designed to provide players with an expansive canvas for shaping their destinies and weaving intricate narratives.
+
+",
+   "photo1":"https://iili.io/HDHThfS.jpg"},
+  {"desc2":"Barvikha RP distinguishes itself by placing a profound emphasis on player agency and creativity. In contrast to linear games, this RPG empowers players to sculpt their own stories, mold their characters, and navigate their chosen paths. Whether one envisions themselves as a noble knight, a crafty rogue, a mystical mage, or any other archetype, Barvikha RP furnishes the tools and stage to breathe life into these chosen personas.
+
+","photo2":"https://iili.io/HDHTWs2.jpg"},
+  {"desc3":"The world of Barvikha RP captivates with its meticulous attention to detail. Every corner of this virtual expanse exudes wonder and an enticing sense of the unknown. Journey through ancient, towering woodlands where sunlight and foliage intertwine to create an enchanting dance of shadows. Ascend to the zenith of majestic peaks, seemingly brushing against the heavens, offering panoramic vistas that inspire awe. The intricate architecture of bustling urban centers, the tranquility of hidden lakes, and the mysteries concealed within forgotten sanctuaries beckon players to unravel their secrets.
+
+","photo3":"https://iili.io/HDHT1OG.webp"},
+  {"desc4":" Beyond the awe-inspiring landscapes, Barvikha RP thrives on the relationships forged between players. Much like the real world, the virtual domain thrives on social interaction, collaboration, and the creation of enduring bonds. Whether forming adventuring parties, joining guilds, or participating in grand communal events, players are encouraged to unite, share their stories, and collectively shape an ever-evolving narrative.
+
+","photo4":"https://iili.io/HDHT0Rs.webp"},
+  {"desc5":"What sets Barvikha RP apart is its dedication to dynamic storytelling. The game's world is not just a backdrop; it's a vibrant entity that responds to players' choices and actions. Decisions ripple throughout the fabric of the virtual realm, influencing politics, triggering events, and reshaping the course of history. This dynamic narrative approach instills a sense of agency, making players feel that their choices carry real consequence and that their journey is truly unique.
+
+","photo5":"https://iili.io/HDHTMx4.webp"},
+  {"descd":"In the gaming realm where imagination sets the only boundaries, Barvikha RP emerges as a prime example of the potential of role-playing games to transport players into fantastical realms, where they can mold their destinies. From sprawling landscapes and intricate tales to a vibrant community and evolving storytelling, Barvikha RP offers an experience that transcends conventional gaming, weaving a tapestry where players can embody their dreams, explore uncharted territories, and cultivate friendships that extend beyond the digital frontier. If you're ready to embark on an odyssey of a lifetime, immerse yourself in the enchanting universe of Barvikha RP and let your imagination run free.
+
+
+
+
+","photod":"https://iili.io/HDHTVWl.webp"}
    ]
  
 }
